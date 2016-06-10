@@ -1,6 +1,6 @@
 # Weather_Redux_React
 
-  > git clone http://github.com/paulagd/Weather_Redux_React.git
-	> cd ReduxSimpleStarter
+	> git clone https://github.com/paulagd/Weather_Redux_React.git
+	> cd ReduxBooks
 	> npm install
 	> npm start
